@@ -29,6 +29,13 @@ Miguel de cervantes (1605)
 \
 [FAO](http://www.fao.org/aquacrop/workshops/es/)
 
+
+imagenes remotas del logo r
+
 <a href="http://www.fao.org/aquacrop/es/">Aquacrop model</a>
 \
 <a href="http://www.fao.org/aquacrop/workshops/es/">FAO</a>
+
+![(https:www.r-project.org)/logo/Rlogo.png)
+
+
